@@ -1,0 +1,15 @@
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\FactoryMethod.dll
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\FactoryMethod.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\AbstractFactory.cs.dll
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\AbstractFactory.cs.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ProtoType.dll
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ProtoType.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ShallowAndDeepCloning.dll
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ShallowAndDeepCloning.pdb

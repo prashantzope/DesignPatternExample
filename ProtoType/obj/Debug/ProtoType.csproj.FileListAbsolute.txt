@@ -1,0 +1,6 @@
+D:\prj\DesignPattern\DesignPattern\ProtoType\bin\Debug\ProtoType.dll
+D:\prj\DesignPattern\DesignPattern\ProtoType\bin\Debug\ProtoType.pdb
+D:\prj\DesignPattern\DesignPattern\ProtoType\obj\Debug\ProtoType.csprojResolveAssemblyReference.cache
+D:\prj\DesignPattern\DesignPattern\ProtoType\obj\Debug\ProtoType.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\ProtoType\obj\Debug\ProtoType.dll
+D:\prj\DesignPattern\DesignPattern\ProtoType\obj\Debug\ProtoType.pdb

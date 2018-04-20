@@ -1,0 +1,6 @@
+D:\prj\DesignPattern\DesignPattern\AbstractFactory.cs\bin\Debug\AbstractFactory.cs.dll
+D:\prj\DesignPattern\DesignPattern\AbstractFactory.cs\bin\Debug\AbstractFactory.cs.pdb
+D:\prj\DesignPattern\DesignPattern\AbstractFactory.cs\obj\Debug\AbstractFactory.cs.csprojResolveAssemblyReference.cache
+D:\prj\DesignPattern\DesignPattern\AbstractFactory.cs\obj\Debug\AbstractFactory.cs.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\AbstractFactory.cs\obj\Debug\AbstractFactory.cs.dll
+D:\prj\DesignPattern\DesignPattern\AbstractFactory.cs\obj\Debug\AbstractFactory.cs.pdb

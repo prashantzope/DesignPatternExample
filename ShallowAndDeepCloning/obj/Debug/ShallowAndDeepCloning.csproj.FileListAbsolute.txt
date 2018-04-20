@@ -1,0 +1,6 @@
+D:\prj\DesignPattern\DesignPattern\ShallowAndDeepCloning\bin\Debug\ShallowAndDeepCloning.dll
+D:\prj\DesignPattern\DesignPattern\ShallowAndDeepCloning\bin\Debug\ShallowAndDeepCloning.pdb
+D:\prj\DesignPattern\DesignPattern\ShallowAndDeepCloning\obj\Debug\ShallowAndDeepCloning.csprojResolveAssemblyReference.cache
+D:\prj\DesignPattern\DesignPattern\ShallowAndDeepCloning\obj\Debug\ShallowAndDeepCloning.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\ShallowAndDeepCloning\obj\Debug\ShallowAndDeepCloning.dll
+D:\prj\DesignPattern\DesignPattern\ShallowAndDeepCloning\obj\Debug\ShallowAndDeepCloning.pdb

@@ -1,0 +1,6 @@
+D:\prj\DesignPattern\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.dll
+D:\prj\DesignPattern\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\prj\DesignPattern\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\prj\DesignPattern\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.dll
+D:\prj\DesignPattern\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
