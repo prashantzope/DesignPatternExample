@@ -13,3 +13,7 @@ D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ProtoType.dl
 D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ProtoType.pdb
 D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ShallowAndDeepCloning.dll
 D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\ShallowAndDeepCloning.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\BuilderPattern.dll
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\BuilderPattern.pdb
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\AdapterDesignPattern.dll
+D:\prj\DesignPattern\DesignPattern\TestConsoleApplication\bin\Debug\AdapterDesignPattern.pdb

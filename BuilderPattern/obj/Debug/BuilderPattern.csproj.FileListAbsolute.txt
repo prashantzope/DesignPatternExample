@@ -1,0 +1,6 @@
+D:\prj\DesignPattern\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.dll
+D:\prj\DesignPattern\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\prj\DesignPattern\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+D:\prj\DesignPattern\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.dll
+D:\prj\DesignPattern\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb

@@ -53,6 +53,14 @@
       <Project>{978977E4-284E-4D13-B477-4870E5D2F33E}</Project>
       <Name>AbstractFactory</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AdapterDesignPattern\AdapterDesignPattern.csproj">
+      <Project>{4189F27B-0FD0-4523-A0B2-699DA8AF9CF0}</Project>
+      <Name>AdapterDesignPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj">
+      <Project>{9ad3c615-16e6-49f4-a067-2df501a233aa}</Project>
+      <Name>BuilderPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FactoryMethod\FactoryMethod.csproj">
       <Project>{92583374-c27d-4684-8d97-05422eb6a087}</Project>
       <Name>FactoryMethod</Name>

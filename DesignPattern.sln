@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoType", "ProtoType\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShallowAndDeepCloning", "ShallowAndDeepCloning\ShallowAndDeepCloning.csproj", "{7030EE05-E9C0-4638-B273-4ADE3C9EF701}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{9AD3C615-16E6-49F4-A067-2DF501A233AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{4189F27B-0FD0-4523-A0B2-699DA8AF9CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7030EE05-E9C0-4638-B273-4ADE3C9EF701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7030EE05-E9C0-4638-B273-4ADE3C9EF701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7030EE05-E9C0-4638-B273-4ADE3C9EF701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD3C615-16E6-49F4-A067-2DF501A233AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD3C615-16E6-49F4-A067-2DF501A233AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD3C615-16E6-49F4-A067-2DF501A233AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD3C615-16E6-49F4-A067-2DF501A233AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4189F27B-0FD0-4523-A0B2-699DA8AF9CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4189F27B-0FD0-4523-A0B2-699DA8AF9CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4189F27B-0FD0-4523-A0B2-699DA8AF9CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4189F27B-0FD0-4523-A0B2-699DA8AF9CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

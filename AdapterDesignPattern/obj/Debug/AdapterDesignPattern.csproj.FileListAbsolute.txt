@@ -1,0 +1,5 @@
+D:\prj\DesignPattern\DesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.dll
+D:\prj\DesignPattern\DesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+D:\prj\DesignPattern\DesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\prj\DesignPattern\DesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.dll
+D:\prj\DesignPattern\DesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
